@@ -93,10 +93,14 @@ TripBudgeter/
 - **AI Budget Suggestions** for optimizing travel plans and saving money
 
 ---
+## 📂 Documentation 
+[documentation.docx](https://github.com/user-attachments/files/17636219/documentation.docx)
+
+---
 
 ## 🎬 Demo Video
 
-Check out this [demo video](https://your-link.com) to see TripBudgeter in action!
+Check out this [demo video](https://github.com/user-attachments/files/17636225/tour.budget.app.pptx) to see TripBudgeter in action!
 
 ---
 
