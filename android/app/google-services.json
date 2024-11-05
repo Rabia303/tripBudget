@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "111771436235",
+    "project_id": "tripbudget-8515a",
+    "storage_bucket": "tripbudget-8515a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111771436235:android:1014bd3aa7cdeadc94874e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111771436235-8bl3t3dqla1ltpf433netqk3lklspmlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your_api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111771436235-8bl3t3dqla1ltpf433netqk3lklspmlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111771436235-fthsvrq7g7dailkuat6t281r04e0v1fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
